@@ -31,7 +31,7 @@
     </header>
     <main>
     <H1>Test</H1>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui possimus rem nobis animi quos. Ratione, ullam rerum animi laborum perferendis id debitis architecto. Commodi eligendi, dolores reiciendis, itaque ad nobis, quisquam qui numquam corrupti velit deserunt optio necessitatibus nemo corporis quia explicabo. Explicabo eaque odio quae porro possimus animi voluptatum omnis incidunt error in. <span>Dicta></span> nihil consequuntur, voluptates praesentium ducimus aut asperiores veritatis minus dolorum laboriosam veniam saepe magnam quas vitae mollitia est natus suscipit animi perferendis corrupti quod accusantium debitis, modi ea. Deleniti, doloremque consectetur blanditiis neque error repudiandae quisquam modi voluptatibus numquam vitae nam quod voluptatum, necessitatibus nemo?</p>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui possimus rem nobis animi quos. Ratione, ullam rerum animi laborum perferendis</p>
     </main> 
     <footer>
         <ul>
@@ -48,3 +48,10 @@
 * One implemented layout (link above); 
 * Completed HTML and CSS basics courses on codeacademy and htmlacademy;
 * I just started to learn, and I have no experience in programming. But I have vast experience in repairing computer equipment.
+### Education:
+* Gomel State Road Construction College. Department of Electronic Computing Tools. Graduated in 2011у;
+* Htmlacademy basic courses;
+* Rolling Scopes School: Front-End Developer;
+### English: Pre-Intermediate (А2)
+* Started study at school;
+* Сommunication with a foreign person (basic questions, questions)
