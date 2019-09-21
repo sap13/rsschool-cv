@@ -13,21 +13,22 @@
 * Git; 
 * Bash
 ### Code examples:
+
 ```
 </head>
 <body>
     <header>
-            <div>
-                <ul>
-                    <li class="s1"><a href="#">url</a></li>
-                    <li class="s2"><a href="#">url</a></li>
-                    <li class="s3"><a href="#">url</a></li>
-                </ul>
-            </div>
+        <div>
+            <ul>
+                <li class="s1"><a href="#">url</a></li>
+                <li class="s2"><a href="#">url</a></li>
+                <li class="s3"><a href="#">url</a></li>
+            </ul>
+        </div>
     </header>
     <main>
-    <H1>Test</H1>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui possimus rem nobis animi quos. Ratione, ullam rerum</p>
+        <H1>Test</H1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui possimus rem nobis animi quos. Ratione, ullam rerum</p>
     </main> 
     <footer>
         <ul>
@@ -38,7 +39,9 @@
     </footer>
 </body>
 </html> 
+
 ```
+
 ### Experience:
 * One implemented layout (link above); 
 * Completed HTML and CSS basics courses on codeacademy and htmlacademy;
