@@ -59,4 +59,4 @@
 
 ### English: Pre-Intermediate (А2)
 * Started study at school;
-* Сommunication with a foreign person (basic questions, questions)
+* Сommunication with a foreign person (basic questions, basic answers)
