@@ -1,0 +1,122 @@
+body {
+    margin: 30px auto;
+    max-width: 1024px;
+    font-family: "arimo", sans-serif;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 0 5px 25px 0 rgba(0, 0, 0, 0.15);
+}
+
+section{
+    text-align: center;
+    
+}
+
+h1{
+    font-size: 26px;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.15)
+
+}
+
+h2{
+    font-size: 22px;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.15)
+
+    
+}
+
+p{
+    white-space: normal;
+    font-family: 'Lato', sans-serif;
+    font-size: 1em;
+    font-weight: 500;
+    position: relative;
+    line-height: 1.4;
+    color: rgb(0, 0, 0, 0.9);
+    margin-bottom: 20px;
+    text-align: center;
+    letter-spacing: 0.05em;
+}
+
+section , header, footer {
+    margin: 0px;
+    padding: 30px 25px;
+}
+
+
+img{
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+    box-shadow: 0 20px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+main{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    max-width: 1024px;
+}
+
+
+, footer {
+    margin: 0 auto;
+    
+}
+
+nav{
+    margin-top: 4px;
+    padding-right: 30px;
+    padding-top: 30px;
+}
+.contacs{
+    margin-left: 30px;
+    text-align: right;
+}
+
+.contacs li{
+    display: inline;
+    margin: 15px;
+}
+
+.fa-telegram-plane ,
+.fa-github ,
+.fa-envelope-open-text
+ {
+   
+    font-size: 25px;
+    color: rgb(0, 0, 0, 0.7)
+}
+ 
+.fa-github:hover {
+    font-size: 25px;
+    color: #970cc2d5;
+}
+
+.fa-telegram-plane:hover {
+    font-size: 25px;
+    color: #1c5be2d5;
+}
+.fa-envelope-open-text:hover{
+    font-size: 25px;
+    color: #092247d5
+}
+
+.name{
+    font-size: 36px;
+    text-align: center;
+}
+
+.prof{
+    font-size: 26px;
+    text-align: center;
+ }
+
+div li{
+    display: inline;
+    margin: 40px;
+    text-align: center;
+    
+}
